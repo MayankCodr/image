@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(159, 255, 137);
+
+}
+.heading{
+    background-color: #8f96e8;
+    border-radius: 3px;
+    border-style: ridge ;
+    border-color: white;
+}
+#camera{
+    border-radius: 3px;
+    border-style: dashed ;
+    border-color: white;
+     width: 350px;
+    height: 300px;
+}
